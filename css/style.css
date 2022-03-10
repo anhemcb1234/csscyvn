@@ -38,6 +38,9 @@ img {
     z-index: -1;
     right: 20%;
 }
+.pointer {
+    cursor: pointer;
+}
 .footer {
     margin-top: 20%!important;
 }
