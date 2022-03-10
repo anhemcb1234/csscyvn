@@ -1,0 +1,27 @@
+.grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.grid .conten1 {
+    background-color: red;
+}
+
+
+.conten2 .box2 {
+    background-color: blue;
+    height: 200px;
+
+}
+.conten3 .box3 {
+    background-color: green;
+    height: 200px;
+}
+
+@media (max-width: 578px) {
+    .grid {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+    }
+}
