@@ -12,16 +12,16 @@ body {
     background: #E5E5E5;
 }
 .color:nth-child(5) {
-    background-color: blue;
+    background-color: #F2C758;
 }
 .color:nth-child(2) {
-    background-color: red;
+    background-color: #B6A179;
 }
 .color:nth-child(3) {
-    background-color: black;
+    background-color: #272425;
 }
 .color:nth-child(4) {
-    background-color: yellow;
+    background-color: #6389CB;
 }
 .color {
     height: 35px;
